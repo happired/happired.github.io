@@ -1,6 +1,4 @@
-body {
-    background-color: #C4B1AA;
-}
+
 
 p {
     color: #5E3D34;
@@ -14,3 +12,7 @@ p {
     font-style: normal;
   }
   
+
+#main-div {
+    border-color: brown;
+}
