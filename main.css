@@ -22,5 +22,9 @@ body {
 #main-div {
     border-color: black;
     border-width: 1px;
-    padding: 10px;
+    padding-top: 10px;
+}
+
+.col {
+    margin: 5px;
 }
