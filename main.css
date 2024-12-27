@@ -1,9 +1,11 @@
-
-
 p {
     color: #5E3D34;
     font-family: Tenor Sans;
     text-align: center;
+}
+
+body {
+    background-color: white;
 }
 
 .tenor-sans-regular {
