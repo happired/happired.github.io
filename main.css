@@ -4,6 +4,10 @@ p {
     text-align: center;
 }
 
+h1 {
+    text-align:center;
+}
+
 body {
     background-color: white;
 }
@@ -16,5 +20,7 @@ body {
   
 
 #main-div {
-    border-color: brown;
+    border-color: black;
+    border-width: 1px;
+    padding: 10px;
 }
