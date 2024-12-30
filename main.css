@@ -19,11 +19,12 @@ body {
   }
   
 
-a {
-    border: black 10px !important;
-    padding-top: 10px;
+.main {
+    padding-top: 70px;
+    padding-bottom: 50px;
+    margin: 25px auto;
+    border: solid 2px;
 }
-
 .col {
     margin: 5px;
 }
