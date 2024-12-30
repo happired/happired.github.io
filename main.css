@@ -4,7 +4,6 @@ p {
     text-align: center;
 }
 
-
 body {
     background-color: white;
 }
@@ -19,9 +18,8 @@ body {
   }
   
 
-#main-div {
-    border-color: black;
-    border-width: 1px;
+.container.main-div {
+    border: black 10px !important;
     padding-top: 10px;
 }
 
