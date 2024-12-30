@@ -19,7 +19,7 @@ body {
   }
   
 
-.a {
+div.a {
     border: black 10px !important;
     padding-top: 10px;
 }
