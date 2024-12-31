@@ -6,8 +6,9 @@
     padding: 40px;
 }
 
-body {
+html, body {
     display: flex;
+    height: 100%;
     justify-content: center;
 }
 
@@ -26,9 +27,17 @@ h1 {
 
 p {
     font-family: "Inconsolata", serif;
-    
     text-align: center;
     margin: auto;
+}
+
+.icon-desc{
+    padding: auto;
+    align-items: center;
+}
+
+.link-list {
+    padding-top: 50px;
 }
 
 #name {
@@ -36,5 +45,20 @@ p {
 }
 
 .column {
-    margin: 10px;
+    margin: 5px;
+    align-items: center; 
+    display: flex;
+}
+
+
+.container {
+    align-items: center;
+}
+
+.img-icon {
+    width: 80%;
+}
+
+.everything-else {
+    padding-top: 40px;
 }
