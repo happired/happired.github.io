@@ -1,24 +1,35 @@
-h1 {
+h1, p, a {
     font-family: "DotGothic16", serif;
     font-weight: 400;
     font-style: normal; 
     text-align: center;
 }
 
+html {
+    cursor: url("01Normal\ Select.ani"), auto;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
 #goose {
     width: 150px;
-    position: absolute;
-    right: 20%;
-    top: 5%;
 }
 
 #hearts {
-    width:50px;
-    
-    position: absolute;
+    max-width: 80px;
+    position: relative;
+    margin-left: 55px;
+    bottom: 50px;
 }
 
-#title-name {
-    position: absolute;
-    top: 5%;
+
+.content {
+    padding-top: 50px;
 }
