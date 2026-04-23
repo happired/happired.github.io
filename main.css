@@ -22,6 +22,11 @@ a:hover {
     width: 150px;
 }
 
+img {
+    border-radius: 50%;
+    max-width: 50%;
+}
+
 #hearts {
     max-width: 80px;
     position: relative;
@@ -32,4 +37,8 @@ a:hover {
 
 .content {
     padding-top: 50px;
+}
+
+.nice-box {
+    outline-color: black;
 }
