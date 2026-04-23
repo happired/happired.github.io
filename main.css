@@ -22,9 +22,9 @@ a:hover {
     width: 150px;
 }
 
-img {
+#mypicture {
     border-radius: 50%;
-    max-width: 50%;
+    max-width: 20%;
 }
 
 #hearts {
@@ -41,4 +41,8 @@ img {
 
 .nice-box {
     outline-color: black;
+}
+
+ul {
+    list-style-type: none;
 }
